@@ -1,0 +1,15 @@
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 10\Homework_7 (Class, Getter-Setter)\obj\Debug\net7.0\Homework_7 (Class, Getter-Setter).csproj.AssemblyReference.cache
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 10\Homework_7 (Class, Getter-Setter)\obj\Debug\net7.0\Homework_7 (Class, Getter-Setter).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 10\Homework_7 (Class, Getter-Setter)\obj\Debug\net7.0\Homework_7 (Class, Getter-Setter).AssemblyInfoInputs.cache
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 10\Homework_7 (Class, Getter-Setter)\obj\Debug\net7.0\Homework_7 (Class, Getter-Setter).AssemblyInfo.cs
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 10\Homework_7 (Class, Getter-Setter)\obj\Debug\net7.0\Homework_7 (Class, Getter-Setter).csproj.CoreCompileInputs.cache
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 10\Homework_7 (Class, Getter-Setter)\bin\Debug\net7.0\Homework_7 (Class, Getter-Setter).exe
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 10\Homework_7 (Class, Getter-Setter)\bin\Debug\net7.0\Homework_7 (Class, Getter-Setter).deps.json
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 10\Homework_7 (Class, Getter-Setter)\bin\Debug\net7.0\Homework_7 (Class, Getter-Setter).runtimeconfig.json
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 10\Homework_7 (Class, Getter-Setter)\bin\Debug\net7.0\Homework_7 (Class, Getter-Setter).dll
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 10\Homework_7 (Class, Getter-Setter)\bin\Debug\net7.0\Homework_7 (Class, Getter-Setter).pdb
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 10\Homework_7 (Class, Getter-Setter)\obj\Debug\net7.0\Homework_7 (Class, Getter-Setter).dll
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 10\Homework_7 (Class, Getter-Setter)\obj\Debug\net7.0\refint\Homework_7 (Class, Getter-Setter).dll
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 10\Homework_7 (Class, Getter-Setter)\obj\Debug\net7.0\Homework_7 (Class, Getter-Setter).pdb
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 10\Homework_7 (Class, Getter-Setter)\obj\Debug\net7.0\Homework_7 (Class, Getter-Setter).genruntimeconfig.cache
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 10\Homework_7 (Class, Getter-Setter)\obj\Debug\net7.0\ref\Homework_7 (Class, Getter-Setter).dll
