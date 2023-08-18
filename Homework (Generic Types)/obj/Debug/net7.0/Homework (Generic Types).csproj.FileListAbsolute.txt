@@ -1,0 +1,15 @@
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 18\Homework (Generic Types)\bin\Debug\net7.0\Homework (Generic Types).exe
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 18\Homework (Generic Types)\bin\Debug\net7.0\Homework (Generic Types).deps.json
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 18\Homework (Generic Types)\bin\Debug\net7.0\Homework (Generic Types).runtimeconfig.json
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 18\Homework (Generic Types)\bin\Debug\net7.0\Homework (Generic Types).dll
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 18\Homework (Generic Types)\bin\Debug\net7.0\Homework (Generic Types).pdb
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 18\Homework (Generic Types)\obj\Debug\net7.0\Homework (Generic Types).csproj.AssemblyReference.cache
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 18\Homework (Generic Types)\obj\Debug\net7.0\Homework (Generic Types).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 18\Homework (Generic Types)\obj\Debug\net7.0\Homework (Generic Types).AssemblyInfoInputs.cache
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 18\Homework (Generic Types)\obj\Debug\net7.0\Homework (Generic Types).AssemblyInfo.cs
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 18\Homework (Generic Types)\obj\Debug\net7.0\Homework (Generic Types).csproj.CoreCompileInputs.cache
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 18\Homework (Generic Types)\obj\Debug\net7.0\Homework (Generic Types).dll
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 18\Homework (Generic Types)\obj\Debug\net7.0\refint\Homework (Generic Types).dll
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 18\Homework (Generic Types)\obj\Debug\net7.0\Homework (Generic Types).pdb
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 18\Homework (Generic Types)\obj\Debug\net7.0\Homework (Generic Types).genruntimeconfig.cache
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 18\Homework (Generic Types)\obj\Debug\net7.0\ref\Homework (Generic Types).dll
