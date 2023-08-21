@@ -1,0 +1,15 @@
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 19\Homework (Array, List Types)\bin\Debug\net7.0\Homework (Array, List Types).exe
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 19\Homework (Array, List Types)\bin\Debug\net7.0\Homework (Array, List Types).deps.json
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 19\Homework (Array, List Types)\bin\Debug\net7.0\Homework (Array, List Types).runtimeconfig.json
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 19\Homework (Array, List Types)\bin\Debug\net7.0\Homework (Array, List Types).dll
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 19\Homework (Array, List Types)\bin\Debug\net7.0\Homework (Array, List Types).pdb
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 19\Homework (Array, List Types)\obj\Debug\net7.0\Homework (Array, List Types).csproj.AssemblyReference.cache
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 19\Homework (Array, List Types)\obj\Debug\net7.0\Homework (Array, List Types).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 19\Homework (Array, List Types)\obj\Debug\net7.0\Homework (Array, List Types).AssemblyInfoInputs.cache
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 19\Homework (Array, List Types)\obj\Debug\net7.0\Homework (Array, List Types).AssemblyInfo.cs
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 19\Homework (Array, List Types)\obj\Debug\net7.0\Homework (Array, List Types).csproj.CoreCompileInputs.cache
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 19\Homework (Array, List Types)\obj\Debug\net7.0\Homework (Array, List Types).dll
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 19\Homework (Array, List Types)\obj\Debug\net7.0\refint\Homework (Array, List Types).dll
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 19\Homework (Array, List Types)\obj\Debug\net7.0\Homework (Array, List Types).pdb
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 19\Homework (Array, List Types)\obj\Debug\net7.0\Homework (Array, List Types).genruntimeconfig.cache
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 19\Homework (Array, List Types)\obj\Debug\net7.0\ref\Homework (Array, List Types).dll
