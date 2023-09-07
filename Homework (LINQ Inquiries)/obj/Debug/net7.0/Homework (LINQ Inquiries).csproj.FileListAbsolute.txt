@@ -1,0 +1,15 @@
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 27\Homework (LINQ Inquiries)\bin\Debug\net7.0\Homework (LINQ Inquiries).exe
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 27\Homework (LINQ Inquiries)\bin\Debug\net7.0\Homework (LINQ Inquiries).deps.json
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 27\Homework (LINQ Inquiries)\bin\Debug\net7.0\Homework (LINQ Inquiries).runtimeconfig.json
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 27\Homework (LINQ Inquiries)\bin\Debug\net7.0\Homework (LINQ Inquiries).dll
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 27\Homework (LINQ Inquiries)\bin\Debug\net7.0\Homework (LINQ Inquiries).pdb
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 27\Homework (LINQ Inquiries)\obj\Debug\net7.0\Homework (LINQ Inquiries).csproj.AssemblyReference.cache
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 27\Homework (LINQ Inquiries)\obj\Debug\net7.0\Homework (LINQ Inquiries).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 27\Homework (LINQ Inquiries)\obj\Debug\net7.0\Homework (LINQ Inquiries).AssemblyInfoInputs.cache
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 27\Homework (LINQ Inquiries)\obj\Debug\net7.0\Homework (LINQ Inquiries).AssemblyInfo.cs
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 27\Homework (LINQ Inquiries)\obj\Debug\net7.0\Homework (LINQ Inquiries).csproj.CoreCompileInputs.cache
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 27\Homework (LINQ Inquiries)\obj\Debug\net7.0\Homework (LINQ Inquiries).dll
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 27\Homework (LINQ Inquiries)\obj\Debug\net7.0\refint\Homework (LINQ Inquiries).dll
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 27\Homework (LINQ Inquiries)\obj\Debug\net7.0\Homework (LINQ Inquiries).pdb
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 27\Homework (LINQ Inquiries)\obj\Debug\net7.0\Homework (LINQ Inquiries).genruntimeconfig.cache
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 27\Homework (LINQ Inquiries)\obj\Debug\net7.0\ref\Homework (LINQ Inquiries).dll
