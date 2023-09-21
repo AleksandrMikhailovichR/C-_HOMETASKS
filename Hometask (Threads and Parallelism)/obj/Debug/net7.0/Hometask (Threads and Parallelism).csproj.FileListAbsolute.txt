@@ -1,0 +1,15 @@
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 31\Hometask (Threads and Parallelism)\bin\Debug\net7.0\Hometask (Threads and Parallelism).exe
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 31\Hometask (Threads and Parallelism)\bin\Debug\net7.0\Hometask (Threads and Parallelism).deps.json
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 31\Hometask (Threads and Parallelism)\bin\Debug\net7.0\Hometask (Threads and Parallelism).runtimeconfig.json
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 31\Hometask (Threads and Parallelism)\bin\Debug\net7.0\Hometask (Threads and Parallelism).dll
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 31\Hometask (Threads and Parallelism)\bin\Debug\net7.0\Hometask (Threads and Parallelism).pdb
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 31\Hometask (Threads and Parallelism)\obj\Debug\net7.0\Hometask (Threads and Parallelism).csproj.AssemblyReference.cache
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 31\Hometask (Threads and Parallelism)\obj\Debug\net7.0\Hometask (Threads and Parallelism).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 31\Hometask (Threads and Parallelism)\obj\Debug\net7.0\Hometask (Threads and Parallelism).AssemblyInfoInputs.cache
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 31\Hometask (Threads and Parallelism)\obj\Debug\net7.0\Hometask (Threads and Parallelism).AssemblyInfo.cs
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 31\Hometask (Threads and Parallelism)\obj\Debug\net7.0\Hometask (Threads and Parallelism).csproj.CoreCompileInputs.cache
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 31\Hometask (Threads and Parallelism)\obj\Debug\net7.0\Hometask (Threads and Parallelism).dll
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 31\Hometask (Threads and Parallelism)\obj\Debug\net7.0\refint\Hometask (Threads and Parallelism).dll
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 31\Hometask (Threads and Parallelism)\obj\Debug\net7.0\Hometask (Threads and Parallelism).pdb
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 31\Hometask (Threads and Parallelism)\obj\Debug\net7.0\Hometask (Threads and Parallelism).genruntimeconfig.cache
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 31\Hometask (Threads and Parallelism)\obj\Debug\net7.0\ref\Hometask (Threads and Parallelism).dll
