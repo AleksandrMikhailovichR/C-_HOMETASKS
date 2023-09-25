@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Hometask (Threads Scheduling, Cancelling and Timers)/1.0.0": {
+        "runtime": {
+          "Hometask (Threads Scheduling, Cancelling and Timers).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hometask (Threads Scheduling, Cancelling and Timers)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

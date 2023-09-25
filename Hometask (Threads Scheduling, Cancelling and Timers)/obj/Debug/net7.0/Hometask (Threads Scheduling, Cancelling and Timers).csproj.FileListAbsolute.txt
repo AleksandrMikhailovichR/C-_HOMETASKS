@@ -1,0 +1,15 @@
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 32\Hometask (Threads Scheduling, Cancelling and Timers)\bin\Debug\net7.0\Hometask (Threads Scheduling, Cancelling and Timers).exe
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 32\Hometask (Threads Scheduling, Cancelling and Timers)\bin\Debug\net7.0\Hometask (Threads Scheduling, Cancelling and Timers).deps.json
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 32\Hometask (Threads Scheduling, Cancelling and Timers)\bin\Debug\net7.0\Hometask (Threads Scheduling, Cancelling and Timers).runtimeconfig.json
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 32\Hometask (Threads Scheduling, Cancelling and Timers)\bin\Debug\net7.0\Hometask (Threads Scheduling, Cancelling and Timers).dll
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 32\Hometask (Threads Scheduling, Cancelling and Timers)\bin\Debug\net7.0\Hometask (Threads Scheduling, Cancelling and Timers).pdb
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 32\Hometask (Threads Scheduling, Cancelling and Timers)\obj\Debug\net7.0\Hometask (Threads Scheduling, Cancelling and Timers).csproj.AssemblyReference.cache
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 32\Hometask (Threads Scheduling, Cancelling and Timers)\obj\Debug\net7.0\Hometask (Threads Scheduling, Cancelling and Timers).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 32\Hometask (Threads Scheduling, Cancelling and Timers)\obj\Debug\net7.0\Hometask (Threads Scheduling, Cancelling and Timers).AssemblyInfoInputs.cache
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 32\Hometask (Threads Scheduling, Cancelling and Timers)\obj\Debug\net7.0\Hometask (Threads Scheduling, Cancelling and Timers).AssemblyInfo.cs
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 32\Hometask (Threads Scheduling, Cancelling and Timers)\obj\Debug\net7.0\Hometask (Threads Scheduling, Cancelling and Timers).csproj.CoreCompileInputs.cache
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 32\Hometask (Threads Scheduling, Cancelling and Timers)\obj\Debug\net7.0\Hometask (Threads Scheduling, Cancelling and Timers).dll
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 32\Hometask (Threads Scheduling, Cancelling and Timers)\obj\Debug\net7.0\refint\Hometask (Threads Scheduling, Cancelling and Timers).dll
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 32\Hometask (Threads Scheduling, Cancelling and Timers)\obj\Debug\net7.0\Hometask (Threads Scheduling, Cancelling and Timers).pdb
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 32\Hometask (Threads Scheduling, Cancelling and Timers)\obj\Debug\net7.0\Hometask (Threads Scheduling, Cancelling and Timers).genruntimeconfig.cache
+C:\Users\Саша\Desktop\C# (Alif Academy)\Lesson 32\Hometask (Threads Scheduling, Cancelling and Timers)\obj\Debug\net7.0\ref\Hometask (Threads Scheduling, Cancelling and Timers).dll
