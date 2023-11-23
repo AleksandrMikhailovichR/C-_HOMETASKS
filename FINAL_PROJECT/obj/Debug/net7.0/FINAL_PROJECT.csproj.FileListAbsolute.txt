@@ -1,0 +1,15 @@
+C:\Users\Саша\Desktop\C# (Alif Academy)\FINAL_PROJECT\bin\Debug\net7.0\FINAL_PROJECT.exe
+C:\Users\Саша\Desktop\C# (Alif Academy)\FINAL_PROJECT\bin\Debug\net7.0\FINAL_PROJECT.deps.json
+C:\Users\Саша\Desktop\C# (Alif Academy)\FINAL_PROJECT\bin\Debug\net7.0\FINAL_PROJECT.runtimeconfig.json
+C:\Users\Саша\Desktop\C# (Alif Academy)\FINAL_PROJECT\bin\Debug\net7.0\FINAL_PROJECT.dll
+C:\Users\Саша\Desktop\C# (Alif Academy)\FINAL_PROJECT\bin\Debug\net7.0\FINAL_PROJECT.pdb
+C:\Users\Саша\Desktop\C# (Alif Academy)\FINAL_PROJECT\obj\Debug\net7.0\FINAL_PROJECT.csproj.AssemblyReference.cache
+C:\Users\Саша\Desktop\C# (Alif Academy)\FINAL_PROJECT\obj\Debug\net7.0\FINAL_PROJECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Саша\Desktop\C# (Alif Academy)\FINAL_PROJECT\obj\Debug\net7.0\FINAL_PROJECT.AssemblyInfoInputs.cache
+C:\Users\Саша\Desktop\C# (Alif Academy)\FINAL_PROJECT\obj\Debug\net7.0\FINAL_PROJECT.AssemblyInfo.cs
+C:\Users\Саша\Desktop\C# (Alif Academy)\FINAL_PROJECT\obj\Debug\net7.0\FINAL_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\Саша\Desktop\C# (Alif Academy)\FINAL_PROJECT\obj\Debug\net7.0\FINAL_PROJECT.dll
+C:\Users\Саша\Desktop\C# (Alif Academy)\FINAL_PROJECT\obj\Debug\net7.0\refint\FINAL_PROJECT.dll
+C:\Users\Саша\Desktop\C# (Alif Academy)\FINAL_PROJECT\obj\Debug\net7.0\FINAL_PROJECT.pdb
+C:\Users\Саша\Desktop\C# (Alif Academy)\FINAL_PROJECT\obj\Debug\net7.0\FINAL_PROJECT.genruntimeconfig.cache
+C:\Users\Саша\Desktop\C# (Alif Academy)\FINAL_PROJECT\obj\Debug\net7.0\ref\FINAL_PROJECT.dll
